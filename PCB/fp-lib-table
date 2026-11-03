@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Hudson's Custom Footprints") (type "KiCad") (uri "C:/Users/rhb30/Documents/KiCad/10.0/footprints/Hudson's Custom Footprints.pretty") (options "") (descr ""))
+)
